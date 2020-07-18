@@ -1,0 +1,8 @@
+title: Coursera-test-1
+description: Coursera_test_repository
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
